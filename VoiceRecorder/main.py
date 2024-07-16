@@ -1,0 +1,3 @@
+import voiceRecord
+
+voiceRecord.voiceRecord()
